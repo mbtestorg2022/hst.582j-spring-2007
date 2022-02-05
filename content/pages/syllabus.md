@@ -118,19 +118,117 @@ Macovski, A. _Medical Imaging Systems_. Upper Saddle River, NJ: Prentice Hall, 1
 Grading
 -------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Lab reports (5 total) | 60% |
-| Quizzes (2 total) | 25% |
-| Problem sets (5 total) | 10% |
-| Class participation | 5% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lab reports (5 total)
+{{< tdclose >}}
+{{< tdopen >}}
+60%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Quizzes (2 total)
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem sets (5 total)
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class participation
+{{< tdclose >}}
+{{< tdopen >}}
+5%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Problem sets are graded on a 0-4 scale, as follows:
 
-| GRADING POINTS | CRITERIA |
-| --- | --- |
-| 4 | Problem set contains few to no errors, indicating a thorough understanding of the material |
-| 3 | Problem set contains some errors, indicating a less-than-thorough understanding of the material |
-| 2 | Problem set is complete, but numerous errors indicate a lack of understanding of the material |
-| 1 | Problem set is incomplete |
-| 0 | Problem set not handed in, or is handed in late without prior arrangement
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+GRADING POINTS
+{{< thclose >}}
+{{< thopen >}}
+CRITERIA
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set contains few to no errors, indicating a thorough understanding of the material
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set contains some errors, indicating a less-than-thorough understanding of the material
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set is complete, but numerous errors indicate a lack of understanding of the material
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set is incomplete
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+0
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set not handed in, or is handed in late without prior arrangement
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
