@@ -10,7 +10,7 @@ General
 *   [Signal Processing Resources]({{< baseurl >}}/pages/related-resources/sp_resources) - annotated list of Web-based resources
 *   [Probability Resources]({{< baseurl >}}/pages/related-resources/prob_resources) - annotated list of Web-based resources
 *   Gari Clifford's links: [General](http://www.mit.edu/~gari/teaching.html), [Algorithms](http://www.mit.edu/~gari/algos.html)
-*   ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Spectral Analysis Interactive Tutor (PDF)](ftp://ftp.ni.com/pub/devzone/LabVIEW_Spectral_Tutorial.pdf)
+*   [Spectral Analysis Interactive Tutor (PDF)](ftp://ftp.ni.com/pub/devzone/LabVIEW_Spectral_Tutorial.pdf)
 *   [Spectral Analysis Interactive Demo](http://web.mit.edu/6.555/www/applet/DFT.html)
 *   [Independent Component Analysis (ICA) demo](http://www.cis.hut.fi/projects/ica/cocktail/cocktail_en.cgi) ("the cocktail party problem")
 
