@@ -6,6 +6,7 @@ description: Laboratory assignment to investigate the behavior of several object
   concerning the automated registration of MRI and CT (optionally PET)in 2D.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/hst-582j-biomedical-signal-and-image-processing-spring-2007/053df9071e85e828c0a03c054e45ef02_lab4_reg.pdf
 file_type: application/pdf
+parent_uid: d60265c0-3541-c848-05ab-e9eb593cdd92
 resourcetype: Document
 title: lab4_reg.pdf
 uid: 053df907-1e85-e828-c0a0-3c054e45ef02

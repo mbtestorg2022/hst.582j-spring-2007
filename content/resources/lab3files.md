@@ -4,6 +4,7 @@ description: 'Supporting files for Lab 3. (The ZIP file contains: supporting dat
   files, 9 .m files and 2 .gz files.)'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/hst-582j-biomedical-signal-and-image-processing-spring-2007/0afce1c2b26169919d4d6df520a20bef_lab3files.zip
 file_type: application/zip
+parent_uid: d60265c0-3541-c848-05ab-e9eb593cdd92
 resourcetype: Other
 title: lab3files.zip
 uid: 0afce1c2-b261-6991-9d4d-6df520a20bef

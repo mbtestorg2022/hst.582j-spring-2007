@@ -6,6 +6,7 @@ description: 'Supporting files for Lab 4. (The ZIP file contains: 1 .mat file an
   J. Michael Fitzpatrick, Vanderbilt University, Nashville, TN.)'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/hst-582j-biomedical-signal-and-image-processing-spring-2007/fa7789da2f3219d649d66eee68e44b72_lab4files.zip
 file_type: application/zip
+parent_uid: d60265c0-3541-c848-05ab-e9eb593cdd92
 resourcetype: Other
 title: lab4files.zip
 uid: fa7789da-2f32-19d6-49d6-6eee68e44b72

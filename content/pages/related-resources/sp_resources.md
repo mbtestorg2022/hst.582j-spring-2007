@@ -71,6 +71,6 @@ The first step is to skim over the General Information tutorial found under the 
 
 The three blocks at the bottom of the figure are a quick way to view the FFT of a given signal. Simply clicking on the plot block will allow the user to view the magnitude and phase of the fft.
 
-![FFT of a signal.](/courses/health-sciences-and-technology/hst-582j-biomedical-signal-and-image-processing-spring-2007/related-resources/jdsp_image.jpg)
+{{< resource "5b483057-b0cc-4b6c-87e2-2114ce145d71" >}}
 
 Magnitude and phase of the FFT in a J-DSP Editor. (Courtesy of Prof. Andreas Spanias and [J-DSP](http://jdsp.asu.edu/). Used with permission.)

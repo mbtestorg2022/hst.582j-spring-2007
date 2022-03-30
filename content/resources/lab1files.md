@@ -4,6 +4,7 @@ description: 'Supporting files for Lab 1. (The ZIP file contains: 12 .txt files,
   .mat files and 1 .m file.)'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/hst-582j-biomedical-signal-and-image-processing-spring-2007/8900fe7d215ec3068342f2b91ecbe501_lab1files.zip
 file_type: application/zip
+parent_uid: d60265c0-3541-c848-05ab-e9eb593cdd92
 resourcetype: Other
 title: lab1files.zip
 uid: 8900fe7d-215e-c306-8342-f2b91ecbe501

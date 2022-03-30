@@ -5,6 +5,7 @@ description: Lecture slides on medical image modalities, survey of common medica
   image analysis.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/hst-582j-biomedical-signal-and-image-processing-spring-2007/93c46b6f25a300a3d134410f0fea7da2_l18_modalities.pdf
 file_type: application/pdf
+parent_uid: 4441427c-7995-6b09-6013-eca4f68a3ec4
 resourcetype: Document
 title: l18_modalities.pdf
 uid: 93c46b6f-25a3-00a3-d134-410f0fea7da2

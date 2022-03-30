@@ -5,6 +5,7 @@ description: Lecture notes on image processing, 2-D continuous space Fourier tra
   and 2-D filters, the 2-D discrete Fourier transform, and 2-D random signals
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/hst-582j-biomedical-signal-and-image-processing-spring-2007/c7944cf98cf3d8b19b985e38f3306f31_ch9_image.pdf
 file_type: application/pdf
+parent_uid: 4441427c-7995-6b09-6013-eca4f68a3ec4
 resourcetype: Document
 title: ch9_image.pdf
 uid: c7944cf9-8cf3-d8b1-9b98-5e38f3306f31
